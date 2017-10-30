@@ -6,7 +6,8 @@ void question_four();
 int main()
 {
 	int question_num;
-
+	
+	printf("question number : ");
 	scanf("%d", &question_num);
 
 	switch(question_num) {
