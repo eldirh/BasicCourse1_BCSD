@@ -1,0 +1,31 @@
+﻿1.
+#include <stdio.h>
+
+int main(void)
+{
+puts("Hello, Ryu ho sung");
+return 0;
+}
+
+2.
+#include <stdio.h>
+
+int main(void)
+{
+puts("동해물과백두산이마르고닳도록하느님이보우하사우리나라만세무궁화삼천리화려강산대한사람대한으로길이보전하세");
+return 0;
+}
+
+3.
+운영체제
+
+4.
+#include <stdio.h>
+int main(void)
+{
+puts("Hello, world");
+return 0;
+}
+
+5.
+반환형 함수명(매개변수)
